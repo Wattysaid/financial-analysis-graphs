@@ -54,14 +54,14 @@ Each script is a standalone Python file. You can run these scripts in your local
 
 ## 📁 Repository Structure
 
-- `BoxPlotForOutlierDetection.py` - Create BoxPlotForOutlierDetection.py (1 minute ago)
-- `CandlestickChart.py` - Create CandlestickChart.py (2 minutes ago)
-- `HeatmapForCorrelationMatrix.py` - Create HeatmapForCorrelationMatrix.py (1 minute ago)
-- `HistogramForReturnDistribution.py` - Create HistogramForReturnDistribution.py (1 minute ago)
-- `LinePlotForStockPrices.py` - Create LinePlotForStockPrices.py (2 minutes ago)
-- `PieChartForPortfolioAllocation.py` - Create PieChartForPortfolioAllocation.py (now)
-- `ScatterPlotForRiskReturnAnalysis.py` - Create ScatterPlotForRiskReturnAnalysis.py (now)
-- `TimeSeriesDecomposition.py` - Create TimeSeriesDecomposition.py (now)
+- `BoxPlotForOutlierDetection.py` - Create BoxPlotForOutlierDetection.py
+- `CandlestickChart.py` - Create CandlestickChart.py
+- `HeatmapForCorrelationMatrix.py` - Create HeatmapForCorrelationMatrix.py
+- `HistogramForReturnDistribution.py` - Create HistogramForReturnDistribution.py
+- `LinePlotForStockPrices.py` - Create LinePlotForStockPrices.py
+- `PieChartForPortfolioAllocation.py` - Create PieChartForPortfolioAllocation.py
+- `ScatterPlotForRiskReturnAnalysis.py` - Create ScatterPlotForRiskReturnAnalysis.py
+- `TimeSeriesDecomposition.py` - Create TimeSeriesDecomposition.py
 
 ## 📜 License
 
@@ -70,10 +70,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-If you have any questions, feel free to reach out at [your.email@example.com](mailto:your.email@example.com).
 
 ---
 
